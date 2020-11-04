@@ -62,7 +62,7 @@ body{
 	font-family:Arial, sans-serif;
 }
 
-@media(max-width:768px) {
+@media only screen and (max-width: 768px) {
 	iframe{
 		pointer-events: all;
 	}
