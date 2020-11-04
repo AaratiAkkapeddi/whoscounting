@@ -3,7 +3,7 @@ iframe{
 	width: 520px;
 	height: 300px;
 	position: relative;
-/*    pointer-events: none;*/
+    pointer-events: none;
     cursor: pointer;
 }
 h1{
