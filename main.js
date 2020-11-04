@@ -18,8 +18,8 @@ function setup(){
 function draw(){
 	let myc = random(["blue","red"])
 	fill(myc)
-  ellipse(random(0,windowWidth), random(0,windowHeight), 50,50);
-  if(frameCount %10 == 0) {
+  ellipse(random(0,windowWidth), random(0,windowHeight), 25,25);
+  if(frameCount %20 == 0) {
     
     clear();
   }
