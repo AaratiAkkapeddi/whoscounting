@@ -66,4 +66,7 @@ body{
 	iframe{
 		pointer-events: all;
 	}
+	#label{
+		display: none;
+	}
 }
